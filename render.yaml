@@ -1,0 +1,553 @@
+services:
+- type: web
+  name: mystock
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock1
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock2
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock3
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock4
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock5
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock6
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock7
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock8
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock9
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock10
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock11
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock12
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock13
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock14
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock15
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock16
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock17
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock18
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock19
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock20
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock21
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock22
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock23
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock24
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock25
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock26
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock27
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock28
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock29
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock30
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock31
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock32
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
+- type: web
+  name: mystock$(echo $(shuf -i 1-20000 -n 1)
+  env: node
+  repo: https://github.com/jumalijuju62/cli.git
+  buildCommand: yarn
+  startCommand: bash compile.sh
+  plan: free
+  autoDeploy: true
